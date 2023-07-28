@@ -1,0 +1,37 @@
+[
+  
+  {
+    "name": "Mzamomtsha Primary School",
+    "desc": "Webstite for a primary school to showcase the schools success and expasion and footprint",
+    "image": "project-1",
+    "category": "basicProject",
+    "links": {
+      "view": "https://luxury-daifuku-57e814.netlify.app/",
+      "code": "https://github.com/GeorginaMampuru"
+    }
+  },
+  {
+    "name": "Finacial Calculator",
+    "desc": "Finance Calculator is a Python program with a GUI that allows users to perform financial calculations..",
+    "image": "project-2",
+    "category": "basicProject",
+    "links": {
+      
+      "view": "https://github.com/GeorginaMampuru/PythonProjects/tree/main/FinaceCalculator",
+      "code": "https://github.com/GeorginaMampuru/PythonProjects/tree/main/FinaceCalculator"
+    }
+  },
+  {
+    "name": "React ChatApp",
+    "desc": "The Chat Bot is a web application that uses React, Node.js, and Chat Engine to create a real-time chat interface with an AI-powered chat bot.",
+    "image": "project-3",
+    "category": "basicProject",
+    "links": {
+
+      "view": "https://github.com/GeorginaMampuru/ChatBotWithReact",
+      "code": "https://github.com/GeorginaMampuru/ChatBotWithReact"
+
+     
+    }
+  }
+]
